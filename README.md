@@ -1,1 +1,1 @@
-Check the wiki page for more detail on deploying a static website using docker on AWS EC2
+Check the wiki page for more details on deploying a static website using docker on AWS EC2
